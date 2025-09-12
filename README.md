@@ -1,6 +1,6 @@
 # A/B Testing Portfolio Project — Power BI & Excel
 
-This project demonstrates an end-to-end **A/B testing workflow** using real-world practices, showcasing data analysis, statistical testing, and business-ready reporting in **Excel** and **Power BI**.
+Demonstrates an end-to-end **A/B testing workflow** using real-world practices, showcasing data analysis, statistical testing, and business-ready reporting in **Excel** and **Power BI**.
 
 The dataset (sourced from Kaggle) simulates user activity and conversion outcomes for two groups (A = control, B = variant). The goal is to determine whether variant B drives a statistically significant uplift in conversions compared to A.
 
@@ -28,4 +28,4 @@ The dataset (sourced from Kaggle) simulates user activity and conversion outcome
 
 ---
 
-## 🗂️ Repository Structure
+
