@@ -12,7 +12,7 @@ The dataset (sourced from Kaggle) simulates user activity and conversion outcome
   - Data cleaning & preparation
   - Sanity checks on randomization & sample balance
   - Conversion rate calculation
-  - Hypothesis testing (two-proportion z-test in Excel, DAX measures in Power BI)
+  - Hypothesis testing (two-proportion z-test in Excel, DAX measures in Power BI, Welch t-test)
   - Minimum Detectable Effect (MDE) analysis
   - Segmentation by device & location
   - Executive-level dashboards: What-If Analysis, Projected Business Impact
