@@ -1,3 +1,4 @@
+![Dashboard Overview](Snapshot1_Overview_AB Test.png)
 # A/B Testing Portfolio Project — Power BI & Excel
 
 Demonstrates an end-to-end **A/B testing workflow** using real-world practices, showcasing data analysis, statistical testing, and business-ready reporting in **Excel** and **Power BI**.
