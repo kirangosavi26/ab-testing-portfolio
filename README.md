@@ -6,6 +6,11 @@ The dataset (sourced from Kaggle) simulates user activity and conversion outcome
 
 ---
 
+## 📊 Demo 
+![Alt text for your GIF](interactive_dashboard.gif)
+
+---
+
 ## 🔑 Key Highlights
 - **Tools Used**: Excel (sanity checks, stats), Power BI (data modeling, measures, dashboards).
 - **Techniques Applied**:
