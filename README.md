@@ -32,5 +32,9 @@ The dataset (sourced from Kaggle) simulates user activity and conversion outcome
 - Recommendation: **Ship Variant B** (higher conversions with confidence).
 
 ---
+## 📬 Contact  
+- LinkedIn: Kiran Gosavi (https://www.linkedin.com/in/kirangosavi/)
+- Email: 26kirangosavi@gmail.com
+
 
 
