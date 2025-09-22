@@ -33,7 +33,7 @@ The dataset (sourced from Kaggle) simulates user activity and conversion outcome
 
 ---
 ## 📬 Contact  
-- [Email](26kirangosavi@gmail.com)
+- Email: 26kirangosavi@gmail.com
 - LinkedIn: [Kiran Gosavi](https://www.linkedin.com/in/kirangosavi/)
 
 
